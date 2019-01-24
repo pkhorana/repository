@@ -1,12 +1,12 @@
 package edu.gatech.oad.antlab.person;
 
 /**
- * A simple class for person 5
- * returns their name and a
- * modified string
- *
- * @author Bob
- * @version 1.1
+ *  A simple class for person 5
+ *  returns their name and a
+ *  modified string 
+ *  
+ *  @author Bob
+ *  @version 1.1
  */
 public class Person5 {
     /**
@@ -62,5 +62,4 @@ public class Person5 {
     public String toString(String input) {
         return name + calc(input);
     }
-
 }
