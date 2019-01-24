@@ -47,8 +47,8 @@ public class Person5 {
             }
             newString += input.charAt(0);
             newString += input.charAt(1);
-
         }
+        System.out.println("Bryan Test");
         return newString;
     }
 
